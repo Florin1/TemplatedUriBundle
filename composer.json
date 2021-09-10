@@ -28,5 +28,5 @@
     "autoload": {
         "psr-0": { "Hautelook\\TemplatedUriBundle": "" }
     },
-    "target-dir": "Hautelook/TemplatedUriBundle",
+    "target-dir": "Hautelook/TemplatedUriBundle"
 }
