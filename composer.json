@@ -29,9 +29,4 @@
         "psr-0": { "Hautelook\\TemplatedUriBundle": "" }
     },
     "target-dir": "Hautelook/TemplatedUriBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev"
-        }
-    }
 }
